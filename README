@@ -1,1 +1,9 @@
 this is readme
+
+---
+
+git clone | svn co
+git commit [-a], git add file | svn add
+git push | svn ci
+
+git status | svn status
